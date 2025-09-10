@@ -6,7 +6,7 @@ Beyond the hardware, the main focus was on applying good programming practices: 
 
 The system combines hardware interaction (LEDs, buttons, buzzer, LCD) with software features such as serial command parsing, real-time event handling, and configurable game modes.
 
-## Key Features
+## Key Features 
 
 **Finite State Machines (FSMs):**
 - **SystemFSM** → Handles serial communication and command parsing.
