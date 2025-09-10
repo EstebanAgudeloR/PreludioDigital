@@ -24,7 +24,7 @@ The system combines hardware interaction (LEDs, buttons, buzzer, LCD) with softw
 **Game logic:**
 - Multiple difficulty levels (from single finger to complex combinations).
 - Round-based evaluation with accuracy percentage and performance messages.
-- Extra modes: free play and memory challenges.
+- Extra modes: free play and memory challenges. 
 
 ## Skills Strengthened
 - Embedded C programming on STM32.
