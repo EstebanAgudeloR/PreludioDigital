@@ -32,4 +32,5 @@ Skills Strengthened:
 - User interface design combining hardware (LEDs, buttons, buzzer) and software (UART, LCD).
 
 This project blends music training with embedded systems engineering, showcasing both creativity and solid software development practices.
+Main source code: Core/Src/main.c
 ![Demo del taxímetro](PreludioDigitalM.png)
